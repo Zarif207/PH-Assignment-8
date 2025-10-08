@@ -1,6 +1,14 @@
 import React from 'react';
 import logoImage from "../../assets/logo.png"
 import { FaGithub } from "react-icons/fa";
+import { Link } from 'react-router';
+import { IoHomeOutline } from "react-icons/io5";
+import { FaAppStore } from "react-icons/fa";
+import { MdInstallDesktop } from "react-icons/md";
+
+
+
+
 
 const Navbar = () => {
     return (
@@ -15,19 +23,19 @@ const Navbar = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Home</a></li>
-        <li><a>Apps</a></li>
-        <li><a>Installation</a></li>
+        <Link to='/'><li>Home</li></Link>
+        <Link to='/allApps'><li>Apps</li></Link>
+        <li>Installation</li>
       </ul>
     </div>
         <img className='h-[40px] w-[40px]' src={logoImage}/>
     <a className="text-2xl text-[#3569c8] pl-2">Appoza</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
-      <li><a>Apps</a></li>
-      <li><a>Installation</a></li>
+    <ul className="menu menu-horizontal px-1 gap-4">
+      <Link to='/'><IoHomeOutline /><li>Home</li></Link>
+      <Link to='/allApps'><FaAppStore /><li>Apps</li></Link>
+      <Link to='/installation'><MdInstallDesktop /><li>Installation</li></Link>
     </ul>
   </div>
   <div className="navbar-end">

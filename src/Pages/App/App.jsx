@@ -1,5 +1,4 @@
 import React from "react";
-import demo from "../../assets/demo-app (1).webp";
 import { LuDownload } from "react-icons/lu";
 import { FaStar } from "react-icons/fa6";
 
@@ -8,14 +7,14 @@ import { FaStar } from "react-icons/fa6";
 const App = ({ singleApp }) => {
   console.log(singleApp);
 
-  const {companyName, downloads, ratingAvg} = singleApp
+  const {companyName, downloads, ratingAvg, image} = singleApp
   return (
     <div>
-      <div className="card bg-base-100 w-85 shadow-sm ">
+      <div className="card bg-base-100 w-85 shadow-sm hover:shadow-lg transition">
   <figure className="p-4">
     <img
-      className="h-[316px] w-[316px] rounded-2xl"
-      src={demo}
+      className="h-[316px] w-[316px] rounded-2xl p-5"
+      src={image}
       alt="Shoes" />
   </figure>
   <div className="card-body">
@@ -26,6 +25,7 @@ const App = ({ singleApp }) => {
     </div>
   </div>
 </div>
+
     </div>
   );
 };

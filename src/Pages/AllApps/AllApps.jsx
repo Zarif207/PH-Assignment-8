@@ -1,17 +1,17 @@
 import React from "react";
 import { useLoaderData } from "react-router";
-import Installation2 from "../Installation2/Installation2";
+import AllApp from "../AllApp/AllApp";
 
-const Installation = () => {
-  const installData = useLoaderData();
-  console.log(installData)
+const AllApps = () => {
+  const allData = useLoaderData();
+  console.log("Fetched Data:", allData);
 
   return (
-    <div className="bg-[#f5f5f5]">
-      <div className="justify-center text-center pt-15">
-        <h1 className="text-[40px] font-semibold p-2">Your Installed Apps</h1>
+    <div>
+      <div className="justify-center text-center pt-15"> 
+        <h1 className="text-[40px] font-semibold p-2">Our All Applications</h1>
         <p className="text-[#919ca6]">
-          Explore All Trending Apps on the Market developed by us
+          Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
 
@@ -30,7 +30,8 @@ const Installation = () => {
                 strokeLinecap="round"
                 strokeWidth="2.5"
                 fill="none"
-                stroke="currentColor">
+                stroke="currentColor"
+              >
                 <circle cx="11" cy="11" r="8"></circle>
                 <path d="m21 21-4.3-4.3"></path>
               </g>
@@ -40,10 +41,10 @@ const Installation = () => {
         </div>
       </div>
 
-
-      <Installation2 installData={installData}></Installation2>
+      
+      <AllApp allData={allData}></AllApp>
     </div>
   );
 };
 
-export default Installation;
+export default AllApps;
