@@ -1,11 +1,11 @@
-import React from "react";
-import googlePlay from "../../assets/googleplay.png";
-import appStore from "../../assets/appstore.png";
-import heroImage from "../../assets/hero.png";
+import React from 'react';
+import googlePlay from '../assets/googleplay.png'
+import appStore from '../assets/appstore.png'
+import heroImage from '../assets/hero.png'
 
 const Banner = () => {
-  return (
-    <div className="h-[1300px] bg-[#f5f5f5]">
+    return (
+            <div className="h-[1300px] bg-[#f5f5f5]">
       <div className="pt-15">
         <div className="flex justify-center items-center">
           <h1 className="text-6xl text-center font-bold">
@@ -67,7 +67,7 @@ const Banner = () => {
         </div>
       </div>
     </div>
-  );
+    );
 };
 
 export default Banner;

@@ -1,14 +1,9 @@
 import React from 'react';
-import logoImage from "../../assets/logo.png"
-import { FaGithub } from "react-icons/fa";
+import { FaAppStore, FaGithub } from 'react-icons/fa';
+import logoImage from '../assets/logo.png'
 import { Link } from 'react-router';
-import { IoHomeOutline } from "react-icons/io5";
-import { FaAppStore } from "react-icons/fa";
-import { MdInstallDesktop } from "react-icons/md";
-
-
-
-
+import { IoHomeOutline } from 'react-icons/io5';
+import { MdInstallDesktop } from 'react-icons/md';
 
 const Navbar = () => {
     return (
@@ -24,8 +19,9 @@ const Navbar = () => {
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
         <Link to='/'><li>Home</li></Link>
-        <Link to='/allApps'><li>Apps</li></Link>
-        <li>Installation</li>
+        <Link to='/products'><li>Apps</li></Link>
+        <Link to='/installation'><li>Installation</li></Link>
+        
       </ul>
     </div>
         <img className='h-[40px] w-[40px]' src={logoImage}/>
@@ -34,7 +30,7 @@ const Navbar = () => {
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-10">
       <Link className='flex justify-center items-center gap-2' to='/'><IoHomeOutline /><li>Home</li></Link>
-      <Link className='flex justify-center items-center gap-2' to='/allApps'><FaAppStore /><li>Apps</li></Link>
+      <Link className='flex justify-center items-center gap-2' to='/products'><FaAppStore /><li>Apps</li></Link>
       <Link className='flex justify-center items-center gap-2' to='/installation'><MdInstallDesktop /><li>Installation</li></Link>
     </ul>
   </div>

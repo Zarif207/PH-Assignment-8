@@ -1,9 +1,9 @@
-import React from "react";
-import logoImage from "../../assets/logo.png";
+import React from 'react';
+import logoImage from '../assets/logo.png'
 
 const Footer = () => {
-  return (
-    <div>
+    return (
+            <div>
       <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content grid-rows-2 p-10">
         <nav>
           <h6 className="footer-title">Services</h6>
@@ -134,7 +134,7 @@ const Footer = () => {
         </nav>
       </footer>
     </div>
-  );
+    );
 };
 
 export default Footer;
