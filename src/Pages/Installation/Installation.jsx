@@ -1,6 +1,6 @@
 import React from "react";
 import { useLoaderData } from "react-router";
-import Installation2 from "../Installation2/Installation2";
+import Installation2 from "./Installation2";
 
 const Installation = () => {
   const installData = useLoaderData();

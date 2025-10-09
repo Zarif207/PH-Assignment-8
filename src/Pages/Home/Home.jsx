@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "../../Components/Banner/Banner";
-import Apps from "../Apps/Apps";
+import Apps from "../App/Apps";
 import { useLoaderData } from "react-router";
 
 const Home = () => {

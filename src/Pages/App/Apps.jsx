@@ -1,5 +1,5 @@
 import React, { Suspense } from "react";
-import App from "../App/App";
+import App from "./App";
 import { useNavigate } from "react-router";
 
 const Apps = ({ data }) => {
@@ -22,14 +22,15 @@ const Apps = ({ data }) => {
         </div>
       </Suspense>
       <div className="flex justify-center items-center py-15">
- <button
-  className="btn rounded-[4px] bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)100%)] text-white px-4 py-2 flex items-center gap-2 w-[140px]"
-  onClick={() => {
-    navigate("/allApps");   
-    window.scrollTo(0, 0);  
-  }}>
-  Show All
-</button>
+        <button
+          className="btn rounded-[4px] bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)100%)] text-white px-4 py-2 flex items-center gap-2 w-[140px]"
+          onClick={() => {
+            navigate("/allApps");
+            window.scrollTo(0, 0);
+          }}
+        >
+          Show All
+        </button>
       </div>
     </div>
   );

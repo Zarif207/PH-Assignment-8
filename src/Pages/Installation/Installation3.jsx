@@ -12,8 +12,6 @@ const Installation3 = ({ downloadedApp }) => {
         <div className="px-20 py-3">
       <div className="flex justify-between items-center w-full bg-white p-4 rounded-2xl">
     
-
-
         <div className="flex items-center gap-4">
           <div>
             <img
@@ -31,8 +29,6 @@ const Installation3 = ({ downloadedApp }) => {
             </div>
           </div>
         </div>
-
-      
 
         <div>
           <button className="btn bg-[#03d390] text-white">Uninstall</button>

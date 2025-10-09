@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import AllApp2 from '../AllApp2/AllApp2';
+import AllApp2 from './AllApp2';
 
 const AllApp = ({ allData }) => {
   console.log("AllApp Data:", allData);

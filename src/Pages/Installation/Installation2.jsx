@@ -1,5 +1,5 @@
 import React, { Suspense } from "react";
-import Installation3 from "../Installation3/Installation3";
+import Installation3 from "./Installation3";
 
 const Installation2 = ({ installData }) => {
   console.log(installData);

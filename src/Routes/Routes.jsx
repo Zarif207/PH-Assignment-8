@@ -3,9 +3,8 @@ import { createBrowserRouter } from "react-router";
 import Root from "../Pages/Root/Root";
 import ErrorPage from "../Pages/Error/ErrorPage";
 import Home from "../Pages/Home/Home";
-import AllApps from "../Pages/AllApps/AllApps";
+import AllApps from "../Pages/AllApp/AllApps";
 import Installation from "../Pages/Installation/Installation";
-
 
 export const router = createBrowserRouter([
   {
@@ -27,8 +26,8 @@ export const router = createBrowserRouter([
       {
         path: "/installation",
         Component: Installation,
-        loader: () => fetch("AllApps.json"), 
+        loader: () => fetch("AllApps.json"),
       },
-    ],  
+    ],
   },
 ]);

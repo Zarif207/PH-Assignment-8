@@ -1,6 +1,6 @@
 import React from "react";
 import { useLoaderData } from "react-router";
-import AllApp from "../AllApp/AllApp";
+import AllApp from "./AllApp";
 
 const AllApps = () => {
   const allData = useLoaderData();
@@ -8,7 +8,7 @@ const AllApps = () => {
 
   return (
     <div>
-      <div className="justify-center text-center pt-15"> 
+      <div className="justify-center text-center pt-15">
         <h1 className="text-[40px] font-semibold p-2">Our All Applications</h1>
         <p className="text-[#919ca6]">
           Explore All Apps on the Market developed by us. We code for Millions
@@ -24,7 +24,8 @@ const AllApps = () => {
             <svg
               className="h-[1em] opacity-50"
               xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24">
+              viewBox="0 0 24 24"
+            >
               <g
                 strokeLinejoin="round"
                 strokeLinecap="round"
@@ -41,7 +42,6 @@ const AllApps = () => {
         </div>
       </div>
 
-      
       <AllApp allData={allData}></AllApp>
     </div>
   );
