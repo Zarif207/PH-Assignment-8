@@ -7,7 +7,7 @@ const AllApps = () => {
   console.log("Fetched Data:", allData);
 
   return (
-    <div>
+    <div className="bg-[#f5f5f5]">
       <div className="justify-center text-center pt-15">
         <h1 className="text-[40px] font-semibold p-2">Our All Applications</h1>
         <p className="text-[#919ca6]">
