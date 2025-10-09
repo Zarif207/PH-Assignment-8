@@ -29,6 +29,6 @@ export const router = createBrowserRouter([
         Component: Installation,
         loader: () => fetch("AllApps.json"), 
       },
-    ],
+    ],  
   },
 ]);

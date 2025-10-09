@@ -32,10 +32,10 @@ const Navbar = () => {
     <a className="text-2xl text-[#3569c8] pl-2">Appoza</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1 gap-4">
-      <Link to='/'><IoHomeOutline /><li>Home</li></Link>
-      <Link to='/allApps'><FaAppStore /><li>Apps</li></Link>
-      <Link to='/installation'><MdInstallDesktop /><li>Installation</li></Link>
+    <ul className="menu menu-horizontal px-1 gap-10">
+      <Link className='flex justify-center items-center gap-2' to='/'><IoHomeOutline /><li>Home</li></Link>
+      <Link className='flex justify-center items-center gap-2' to='/allApps'><FaAppStore /><li>Apps</li></Link>
+      <Link className='flex justify-center items-center gap-2' to='/installation'><MdInstallDesktop /><li>Installation</li></Link>
     </ul>
   </div>
   <div className="navbar-end">

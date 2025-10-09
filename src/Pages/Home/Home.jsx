@@ -15,5 +15,3 @@ const Home = () => {
 };
 
 export default Home;
-// #f5f5f5
-// 
