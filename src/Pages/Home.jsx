@@ -18,13 +18,12 @@ const Home = () => {
 
       <div>
         <div>
-
           <div className="justify-center text-center pt-20">
             <h2 className="text-4xl font-semibold">Trending Apps</h2>
             <p className="text-[#637382] pt-4">
               Explore All Trending Apps on the Market developed by us
             </p>
-          </div>
+          </div> 
 
           
 
