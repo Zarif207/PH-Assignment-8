@@ -4,307 +4,531 @@
     "title": "Chatly",
     "companyName": "OpenSoft: Chatly Messenger",
     "id": 1,
-    "description": "Connect instantly with friends and family through secure messaging. Share photos, videos, and voice messages with end-to-end encryption. Stay in touch with group chats and create meaningful conversations.",
+    "description": "Connect instantly with friends and family through secure messaging. Share photos, videos, and voice messages with end-to-end encryption. Stay in touch with group chats and create meaningful conversations.\n\nChatly offers a seamless communication experience with lightning-fast message delivery and reliable connectivity. Create unlimited groups to stay connected with your communities, whether it's family, friends, or work colleagues.\n\nCustomize your chat experience with themes, stickers, and expressive emojis. Share your location in real-time, send documents, and make crystal-clear voice and video calls. Your privacy is our priority with self-destructing messages and secure cloud backup.\n\nExperience cross-platform synchronization across all your devices. Never miss a message with smart notifications and message pinning. Join public channels to follow your favorite creators and brands.",
     "size": 45,
     "reviews": 12000,
     "ratingAvg": 4.5,
-    "downloads": "5M"
+    "downloads": "5M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 6480 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1950/1950715.png",
     "title": "TaskPro",
     "companyName": "NextVision: Smart Task Manager",
     "id": 2,
-    "description": "Transform the way you organize your daily tasks with intelligent reminders and priority management. Create projects, set deadlines, and collaborate with your team seamlessly. Boost productivity with smart scheduling.",
+    "description": "Transform the way you organize your daily tasks with intelligent reminders and priority management. Create projects, set deadlines, and collaborate with your team seamlessly. Boost productivity with smart scheduling.\n\nTaskPro helps you break down complex projects into manageable subtasks with easy drag-and-drop functionality. Set recurring tasks for daily routines and receive timely notifications to stay on track throughout your busy day.\n\nVisualize your workflow with Kanban boards, lists, and calendar views. Assign tasks to team members, add comments, and attach files for complete project transparency. Track time spent on activities to improve efficiency.\n\nIntegrate with your favorite tools and sync across all devices. Use tags and filters to organize tasks by context, priority, or deadline. Analytics dashboard provides insights into your productivity patterns and helps you optimize your workflow.",
     "size": 30,
     "reviews": 8500,
     "ratingAvg": 4.2,
-    "downloads": "3M"
+    "downloads": "3M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 1275 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 2975 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2936/2936358.png",
     "title": "FitTrack",
     "companyName": "Healthify: FitTrack Workout",
     "id": 3,
-    "description": "Monitor your fitness journey with comprehensive workout tracking and nutrition insights. Track steps, calories burned, and exercise routines. Get personalized fitness plans and achieve your health goals faster.",
+    "description": "Monitor your fitness journey with comprehensive workout tracking and nutrition insights. Track steps, calories burned, and exercise routines. Get personalized fitness plans and achieve your health goals faster.\n\nFitTrack automatically detects your activities including walking, running, cycling, and various sports. Log your meals with an extensive food database and track macronutrients to maintain a balanced diet that supports your fitness objectives.\n\nConnect with wearable devices and sync your data seamlessly. Set custom goals for weight loss, muscle gain, or general wellness. Receive motivational insights and celebrate milestones with achievement badges and progress photos.\n\nJoin challenges with friends and the FitTrack community to stay motivated. Access expert workout videos and training plans designed by certified personal trainers. Monitor your heart rate, sleep quality, and hydration levels for complete health awareness.",
     "size": 55,
     "reviews": 16000,
     "ratingAvg": 4.8,
-    "downloads": "7M"
+    "downloads": "7M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 640 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 11680 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1046/1046857.png",
     "title": "Foodiez",
     "companyName": "Urban Eats: Discover & Order Food",
     "id": 4,
-    "description": "Explore thousands of restaurants and cuisines in your area. Order delicious meals from your favorite spots with real-time tracking. Enjoy exclusive deals, fast delivery, and contactless payment options.",
+    "description": "Explore thousands of restaurants and cuisines in your area. Order delicious meals from your favorite spots with real-time tracking. Enjoy exclusive deals, fast delivery, and contactless payment options.\n\nDiscover new dining experiences with detailed restaurant profiles, customer reviews, and high-quality food photos. Filter by cuisine type, dietary preferences, and delivery time to find exactly what you're craving right now.\n\nSave your favorite orders for quick reordering and create custom meal combinations. Track your delivery driver in real-time on the map and receive accurate ETA updates. Rate your experience and help others discover great food.\n\nEnjoy special promotions, loyalty rewards, and first-order discounts. Schedule orders in advance for busy days or use group ordering for office lunches. Multiple payment options including cards, digital wallets, and cash on delivery ensure convenience.",
     "size": 42,
     "reviews": 22000,
     "ratingAvg": 4.6,
-    "downloads": "10M"
+    "downloads": "10M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 440 },
+      { "name": "2 star", "count": 660 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 6600 },
+      { "name": "5 star", "count": 12100 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
     "title": "NoteSync",
     "companyName": "Cloudware: Notes & Reminder",
     "id": 5,
-    "description": "Capture ideas and thoughts instantly with cloud-based note synchronization. Access your notes from any device, create checklists, and set smart reminders. Organize with tags and folders for effortless retrieval.",
+    "description": "Capture ideas and thoughts instantly with cloud-based note synchronization. Access your notes from any device, create checklists, and set smart reminders. Organize with tags and folders for effortless retrieval.\n\nNoteSync offers rich text formatting, bullet points, and the ability to embed images, audio recordings, and sketches. Your notes are automatically saved and synced across all devices in real-time, ensuring you never lose important information.\n\nCreate interactive checklists for shopping lists, travel plans, or project tasks. Set location-based reminders that notify you when you arrive at specific places. Use voice-to-text for quick note capture when you're on the go.\n\nSecure your sensitive notes with password protection and biometric authentication. Share notes with colleagues for collaborative work or with family for shared planning. Search functionality helps you find any note instantly using keywords or tags.",
     "size": 25,
     "reviews": 5000,
     "ratingAvg": 4.0,
-    "downloads": "1.5M"
+    "downloads": "1.5M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 1350 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3976/3976625.png",
     "title": "LearnMate",
     "companyName": "EduTech: Interactive Learning",
     "id": 6,
-    "description": "Master new skills with engaging interactive courses and video lessons. Learn at your own pace with expert instructors across various subjects. Track your progress with quizzes and earn certificates upon completion.",
+    "description": "Master new skills with engaging interactive courses and video lessons. Learn at your own pace with expert instructors across various subjects. Track your progress with quizzes and earn certificates upon completion.\n\nLearnMate offers thousands of courses in technology, business, creative arts, personal development, and academic subjects. Each course includes HD video lectures, downloadable resources, and hands-on projects to reinforce learning.\n\nParticipate in discussion forums to connect with fellow learners and instructors. Get personalized course recommendations based on your interests and career goals. Bookmark lessons and take notes directly within the video player.\n\nPractice with interactive coding environments, design tools, and assessment quizzes. Download courses for offline learning during commutes or travel. Earn industry-recognized certificates to showcase on your resume and LinkedIn profile. Set daily learning goals and receive reminders to maintain consistency.",
     "size": 60,
     "reviews": 18000,
     "ratingAvg": 4.7,
-    "downloads": "8M"
+    "downloads": "8M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1080 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 11520 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2830/2830284.png",
     "title": "TravelGo",
     "companyName": "WorldConnect: Flights & Hotels",
     "id": 7,
-    "description": "Plan your perfect vacation with seamless flight and hotel bookings. Compare prices across airlines and accommodations to find the best deals. Discover tours, activities, and travel guides for unforgettable experiences.",
+    "description": "Plan your perfect vacation with seamless flight and hotel bookings. Compare prices across airlines and accommodations to find the best deals. Discover tours, activities, and travel guides for unforgettable experiences.\n\nTravelGo searches hundreds of travel sites simultaneously to ensure you get the lowest prices on flights and hotels. Set price alerts to be notified when fares drop for your desired destinations and travel dates.\n\nExplore detailed destination guides with insider tips, must-see attractions, and local recommendations. Book complete vacation packages including flights, hotels, and car rentals with significant bundle savings. Manage all your trip details in one place.\n\nRead verified traveler reviews and view authentic photos before booking. Access 24/7 customer support for booking changes or travel emergencies. Earn rewards points on every booking and unlock exclusive member discounts. Interactive maps help you choose hotels near attractions.",
     "size": 50,
     "reviews": 25000,
     "ratingAvg": 4.3,
-    "downloads": "9M"
+    "downloads": "9M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 3750 },
+      { "name": "4 star", "count": 7500 },
+      { "name": "5 star", "count": 11500 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2721/2721788.png",
     "title": "Budgetly",
     "companyName": "FinWise: Expense Tracker",
     "id": 8,
-    "description": "Take control of your finances with powerful expense tracking and budgeting tools. Visualize spending patterns with detailed reports and charts. Set savings goals and receive alerts when approaching budget limits.",
+    "description": "Take control of your finances with powerful expense tracking and budgeting tools. Visualize spending patterns with detailed reports and charts. Set savings goals and receive alerts when approaching budget limits.\n\nBudgetly automatically categorizes your transactions and provides insights into where your money goes each month. Connect multiple bank accounts and credit cards for a complete financial overview in one dashboard.\n\nCreate custom budget categories for different aspects of your life including housing, food, entertainment, and transportation. Set spending limits and receive real-time notifications when you're close to exceeding your budget thresholds.\n\nGenerate comprehensive financial reports with colorful charts and graphs. Track bill due dates and set reminders to avoid late fees. Plan for future expenses and build emergency funds with goal-based savings features. Export data for tax preparation.",
     "size": 28,
     "reviews": 14000,
     "ratingAvg": 4.4,
-    "downloads": "4.5M"
+    "downloads": "4.5M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 560 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 5740 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/4814/4814268.png",
     "title": "WeatherPro",
     "companyName": "SkyTech: Weather Forecast",
     "id": 9,
-    "description": "Stay prepared with precise hourly and 10-day weather forecasts. Get real-time alerts for severe weather conditions and storm tracking. View detailed meteorological data including humidity, wind speed, and UV index.",
+    "description": "Stay prepared with precise hourly and 10-day weather forecasts. Get real-time alerts for severe weather conditions and storm tracking. View detailed meteorological data including humidity, wind speed, and UV index.\n\nWeatherPro uses advanced radar technology and data from multiple weather stations to provide the most accurate forecasts available. Interactive weather maps show precipitation, temperature, and wind patterns in stunning detail.\n\nPlan your outdoor activities with confidence using minute-by-minute precipitation forecasts. Receive push notifications for weather changes, severe storm warnings, and air quality alerts in your area and saved locations.\n\nView beautiful weather animations and satellite imagery. Check sunrise and sunset times, moon phases, and pollen counts. Save multiple locations to track weather for family, friends, or travel destinations. Historical weather data helps you plan seasonal activities.",
     "size": 35,
     "reviews": 11000,
     "ratingAvg": 4.6,
-    "downloads": "6M"
+    "downloads": "6M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3850 },
+      { "name": "5 star", "count": 5500 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/1042/1042339.png",
     "title": "CamSnap",
     "companyName": "Pixelify: Photo Editor",
     "id": 10,
-    "description": "Transform your photos into stunning masterpieces with professional editing tools. Apply filters, adjust brightness and contrast, remove backgrounds, and add creative effects. Create collages and share directly to social media.",
+    "description": "Transform your photos into stunning masterpieces with professional editing tools. Apply filters, adjust brightness and contrast, remove backgrounds, and add creative effects. Create collages and share directly to social media.\n\nCamSnap offers hundreds of customizable filters and effects to enhance your photos instantly. Fine-tune every aspect of your images with advanced editing tools including curves, levels, saturation, and sharpness controls.\n\nRemove unwanted objects or blemishes with intelligent healing tools. Add text overlays with beautiful fonts, stickers, and frames. Create stunning photo collages with dozens of layout templates perfect for sharing memories.\n\nUse AI-powered features like automatic background removal, sky replacement, and portrait enhancement. Batch edit multiple photos at once to save time. Non-destructive editing means you can always revert to the original. Export in high resolution for printing.",
     "size": 40,
     "reviews": 17000,
     "ratingAvg": 4.5,
-    "downloads": "8M"
+    "downloads": "8M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 9010 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3448/3448609.png",
     "title": "StreamIt",
     "companyName": "MediaFlow: Video Streaming",
     "id": 11,
-    "description": "Enjoy unlimited access to thousands of movies, TV shows, and exclusive original content. Stream in HD and 4K quality with offline download capability. Create multiple profiles and get personalized recommendations.",
+    "description": "Enjoy unlimited access to thousands of movies, TV shows, and exclusive original content. Stream in HD and 4K quality with offline download capability. Create multiple profiles and get personalized recommendations.\n\nStreamIt features an ever-growing library of blockbuster movies, binge-worthy series, documentaries, and award-winning originals. Discover content across all genres including action, comedy, drama, thriller, sci-fi, and family entertainment.\n\nCreate up to five personalized profiles for different family members with individual watchlists and viewing preferences. Parental controls ensure age-appropriate content for kids. Resume watching seamlessly across all your devices.\n\nDownload your favorite shows and movies to watch offline during travel or without internet connection. Get smart recommendations based on your viewing history. No ads interruption for pure entertainment experience. Available on smart TVs, smartphones, tablets, and web browsers.",
     "size": 70,
     "reviews": 32000,
     "ratingAvg": 4.7,
-    "downloads": "20M"
+    "downloads": "20M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 960 },
+      { "name": "2 star", "count": 1280 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 16960 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
     "title": "Musicify",
     "companyName": "TuneWave: Music & Podcasts",
     "id": 12,
-    "description": "Stream millions of songs and podcasts completely ad-free. Discover new artists with curated playlists and personalized recommendations. Download music for offline listening and enjoy high-quality audio streaming.",
+    "description": "Stream millions of songs and podcasts completely ad-free. Discover new artists with curated playlists and personalized recommendations. Download music for offline listening and enjoy high-quality audio streaming.\n\nMusicify offers the world's largest music library spanning all genres from pop and rock to classical and jazz. Create unlimited playlists, save your favorite songs, and share music with friends through collaborative playlists.\n\nDiscover new music with Daily Mix playlists tailored to your taste and mood-based recommendations. Follow your favorite artists to stay updated on new releases and concert announcements. Lyrics display in real-time as you listen.\n\nPodcast library features thousands of shows across news, comedy, education, true crime, and more. Smart downloads automatically save your favorite podcasts for offline listening. High-fidelity audio quality for audiophile-grade listening experience. Works with smart speakers and car systems.",
     "size": 65,
     "reviews": 40000,
     "ratingAvg": 4.8,
-    "downloads": "15M"
+    "downloads": "15M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 27600 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3143/3143609.png",
     "title": "QuickScan",
     "companyName": "DocuPro: Document Scanner",
     "id": 13,
-    "description": "Convert your smartphone into a powerful mobile scanner for documents, receipts, and business cards. Create high-quality PDF files with automatic edge detection and image enhancement. Organize scans in folders and share instantly.",
+    "description": "Convert your smartphone into a powerful mobile scanner for documents, receipts, and business cards. Create high-quality PDF files with automatic edge detection and image enhancement. Organize scans in folders and share instantly.\n\nQuickScan uses advanced image processing to automatically detect document edges, correct perspective, and enhance text clarity. Multi-page scanning makes it easy to digitize entire documents, contracts, or books quickly.\n\nApply filters to optimize scans for different document types including black and white text, color photos, or whiteboard notes. OCR technology extracts text from scanned documents making them searchable and editable.\n\nOrganize your scans in customizable folders and add tags for easy retrieval. Password-protect sensitive documents with encryption. Share scans via email, cloud storage, or directly to productivity apps. Batch rename and compress PDFs to save storage space.",
     "size": 33,
     "reviews": 8000,
     "ratingAvg": 4.4,
-    "downloads": "2M"
+    "downloads": "2M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3040 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2331/2331970.png",
     "title": "ShopNow",
     "companyName": "MegaCart: Online Shopping",
     "id": 14,
-    "description": "Browse millions of products from electronics to fashion with incredible deals and discounts. Enjoy fast shipping, easy returns, and secure payment options. Track orders in real-time and shop with confidence.",
+    "description": "Browse millions of products from electronics to fashion with incredible deals and discounts. Enjoy fast shipping, easy returns, and secure payment options. Track orders in real-time and shop with confidence.\n\nShopNow brings you the best selection of products from trusted sellers worldwide. Filter by price, brand, ratings, and delivery options to find exactly what you need. Read detailed product descriptions and customer reviews.\n\nCreate wishlists for future purchases and receive price drop alerts on items you're watching. Save your favorite stores and products for quick access. Use comparison tools to find the best deals across multiple sellers.\n\nCheckout securely with multiple payment methods including credit cards, digital wallets, and buy-now-pay-later options. Track your packages in real-time from warehouse to doorstep. Easy returns and refunds with dedicated customer support. Flash sales and exclusive app-only deals daily.",
     "size": 48,
     "reviews": 29000,
     "ratingAvg": 4.5,
-    "downloads": "18M"
+    "downloads": "18M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 1160 },
+      { "name": "2 star", "count": 1450 },
+      { "name": "3 star", "count": 4350 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 13340 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3983/3983896.png",
     "title": "MindZen",
     "companyName": "Calmly: Meditation & Sleep",
     "id": 15,
-    "description": "Find peace and tranquility with guided meditation sessions and relaxing sleep stories. Reduce stress and anxiety with breathing exercises and mindfulness techniques. Improve sleep quality with soothing soundscapes and music.",
+    "description": "Find peace and tranquility with guided meditation sessions and relaxing sleep stories. Reduce stress and anxiety with breathing exercises and mindfulness techniques. Improve sleep quality with soothing soundscapes and music.\n\nMindZen offers hundreds of guided meditations for beginners and experienced practitioners. Topics include stress relief, focus enhancement, emotional healing, gratitude, and self-compassion. Sessions range from 3 to 30 minutes to fit any schedule.\n\nImprove sleep quality with bedtime stories narrated by soothing voices, nature sounds, and white noise. Sleep timer automatically stops playback after you fall asleep. Morning meditations help you start your day centered and energized.\n\nTrack your meditation streak and mindfulness minutes to build a consistent practice. Breathing exercises with visual guides help manage anxiety and panic. Masterclasses from meditation experts teach advanced techniques. Offline downloads for practice anywhere without internet.",
     "size": 50,
     "reviews": 12000,
     "ratingAvg": 4.6,
-    "downloads": "6M"
+    "downloads": "6M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 6600 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
     "title": "DailyFit",
     "companyName": "ActiveLife: Home Workouts",
     "id": 16,
-    "description": "Get fit at home with personalized workout routines designed by professional trainers. Follow video-guided exercises for strength, cardio, yoga, and flexibility. Track your progress and build healthy habits with daily challenges.",
+    "description": "Get fit at home with personalized workout routines designed by professional trainers. Follow video-guided exercises for strength, cardio, yoga, and flexibility. Track your progress and build healthy habits with daily challenges.\n\nDailyFit offers workout programs for all fitness levels from complete beginners to advanced athletes. No equipment needed for bodyweight exercises, or follow equipment-based routines using dumbbells, resistance bands, and more.\n\nHD video demonstrations show proper form and technique for every exercise. Customize workout duration from quick 7-minute sessions to intensive 45-minute training. Rest timer and audio cues keep you moving through circuits.\n\nSet fitness goals for weight loss, muscle building, or improved endurance. Track calories burned, workout frequency, and personal records. Join 30-day fitness challenges to stay motivated. Progress photos document your transformation journey. Apple Health and Google Fit integration.",
     "size": 54,
     "reviews": 18000,
     "ratingAvg": 4.7,
-    "downloads": "7M"
+    "downloads": "7M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1080 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 11520 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/825/825508.png",
     "title": "CryptoX",
     "companyName": "CoinEdge: Crypto Tracker",
     "id": 17,
-    "description": "Monitor cryptocurrency prices and market trends in real-time across all major exchanges. Track your portfolio performance with detailed analytics and charts. Get instant price alerts and breaking news from the crypto world.",
+    "description": "Monitor cryptocurrency prices and market trends in real-time across all major exchanges. Track your portfolio performance with detailed analytics and charts. Get instant price alerts and breaking news from the crypto world.\n\nCryptoX supports tracking of thousands of cryptocurrencies including Bitcoin, Ethereum, and emerging altcoins. View real-time price charts with technical indicators, candlestick patterns, and volume analysis for informed trading decisions.\n\nCreate and manage multiple portfolios to track your crypto investments. Automatic profit/loss calculations show your gains in real-time. Set custom price alerts for your favorite coins and get notified instantly of significant market movements.\n\nStay updated with breaking news from trusted crypto sources and social sentiment analysis. View market cap rankings, trading volume, and circulation supply data. Historical charts help analyze long-term trends. Convert between fiat currencies and cryptocurrencies easily. Secure and private.",
     "size": 41,
     "reviews": 10000,
     "ratingAvg": 4.2,
-    "downloads": "4M"
+    "downloads": "4M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 3500 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3176/3176366.png",
     "title": "StoryLab",
     "companyName": "InstaTools: Story Maker",
     "id": 18,
-    "description": "Create eye-catching stories and reels with professional templates and editing tools. Add stunning filters, animations, music, and text effects to your content. Stand out on social media with creative designs that engage your audience.",
+    "description": "Create eye-catching stories and reels with professional templates and editing tools. Add stunning filters, animations, music, and text effects to your content. Stand out on social media with creative designs that engage your audience.\n\nStoryLab features thousands of professionally designed templates for Instagram Stories, Reels, TikTok, and other social platforms. Customize colors, fonts, and layouts to match your personal brand or aesthetic preferences.\n\nAdd animated text with kinetic typography effects, stickers, GIFs, and emoji. Layer multiple photos and videos with smooth transitions. Apply trending filters and adjust brightness, contrast, and saturation for perfect visual appeal.\n\nExtensive music library with licensed tracks for your stories and reels. Trim and arrange clips on an intuitive timeline editor. Export in optimal resolution for each platform. Save your favorite templates and brand kits for consistent posting. Schedule content calendar.",
     "size": 36,
     "reviews": 15000,
     "ratingAvg": 4.4,
-    "downloads": "6.5M"
+    "downloads": "6.5M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6150 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3898/3898082.png",
     "title": "Langly",
     "companyName": "PolyLingua: Language Learning",
     "id": 19,
-    "description": "Master new languages through interactive lessons, games, and real conversations. Practice speaking, reading, writing, and listening with native speakers. Learn at your own pace with personalized study plans and progress tracking.",
+    "description": "Master new languages through interactive lessons, games, and real conversations. Practice speaking, reading, writing, and listening with native speakers. Learn at your own pace with personalized study plans and progress tracking.\n\nLangly offers courses in over 30 languages from Spanish and French to Japanese and Arabic. Bite-sized lessons fit into your busy schedule with just 10-15 minutes per day. Gamified learning makes practice fun and addictive.\n\nPractice pronunciation with speech recognition technology that provides instant feedback. Engage in real conversations with native speakers through the community exchange feature. Build vocabulary with spaced repetition flashcards proven by science.\n\nLearn practical phrases for travel, business, or casual conversation. Cultural notes and context help you understand nuances beyond literal translation. Offline mode lets you learn anywhere without internet. Achievement badges and leaderboards keep you motivated. Take proficiency tests to measure your progress.",
     "size": 58,
     "reviews": 22000,
     "ratingAvg": 4.7,
-    "downloads": "12M"
+    "downloads": "12M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 660 },
+      { "name": "2 star", "count": 880 },
+      { "name": "3 star", "count": 1760 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 13200 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2965/2965849.png",
     "title": "FlashNews",
     "companyName": "DailyBuzz: Breaking News",
     "id": 20,
-    "description": "Stay informed with breaking news and updates from trusted sources worldwide. Customize your news feed by topics and interests. Read articles offline and receive push notifications for important developments as they happen.",
+    "description": "Stay informed with breaking news and updates from trusted sources worldwide. Customize your news feed by topics and interests. Read articles offline and receive push notifications for important developments as they happen.\n\nFlashNews aggregates content from hundreds of reputable news sources covering politics, business, technology, sports, entertainment, and local news. AI-powered algorithms curate stories based on your reading preferences and behavior.\n\nFollow specific topics, journalists, or publications to create a personalized news experience. Bookmark articles to read later and share stories with friends via social media or messaging apps. Dark mode for comfortable nighttime reading.\n\nBreaking news alerts keep you updated on major events as they unfold. Fact-check indicators help identify reliable journalism. Adjust notification frequency to avoid information overload. Daily briefings summarize top stories each morning. Save articles for offline reading during commutes.",
     "size": 31,
     "reviews": 7000,
     "ratingAvg": 4.3,
-    "downloads": "3M"
+    "downloads": "3M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1050 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2450 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
     "title": "CleanMaster",
     "companyName": "Boostify: Phone Cleaner",
     "id": 21,
-    "description": "Optimize your phone's performance by removing junk files, cache, and duplicate photos. Free up storage space and boost speed with one-tap cleaning. Manage apps, monitor battery usage, and keep your device running smoothly.",
+    "description": "Optimize your phone's performance by removing junk files, cache, and duplicate photos. Free up storage space and boost speed with one-tap cleaning. Manage apps, monitor battery usage, and keep your device running smoothly.\n\nCleanMaster scans your device to identify unnecessary files including app cache, residual files from uninstalled apps, and system junk. Safely remove gigabytes of clutter without affecting important data or app functionality.\n\nDuplicate photo finder uses intelligent image recognition to identify similar or identical photos in your gallery. Free up space by keeping only the best versions. Large file manager helps you find and remove videos and files you no longer need.\n\nApp manager shows which apps drain battery and consume excessive data. Hibernate background apps to extend battery life. CPU cooler prevents overheating during intensive tasks. Notification cleaner removes spam alerts. Storage analyzer with visual breakdown of space usage.",
     "size": 29,
     "reviews": 16000,
     "ratingAvg": 4.4,
-    "downloads": "9M"
+    "downloads": "9M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 1920 },
+      { "name": "4 star", "count": 6400 },
+      { "name": "5 star", "count": 6560 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2838/2838590.png",
     "title": "ZenClock",
     "companyName": "FocusApp: Pomodoro Timer",
     "id": 22,
-    "description": "Maximize productivity using the proven Pomodoro technique with customizable work and break intervals. Stay focused on tasks while avoiding burnout. Track your completed sessions and analyze your productivity patterns over time.",
+    "description": "Maximize productivity using the proven Pomodoro technique with customizable work and break intervals. Stay focused on tasks while avoiding burnout. Track your completed sessions and analyze your productivity patterns over time.\n\nZenClock helps you maintain focus with 25-minute work sessions followed by short breaks, preventing mental fatigue. Customize session lengths to match your personal productivity rhythm and task complexity requirements.\n\nMinimalist design eliminates distractions while you work. Ambient sounds including white noise, nature sounds, and focus music help you concentrate. Notification blocking ensures uninterrupted work sessions during active timers.\n\nTrack daily, weekly, and monthly productivity statistics with detailed charts. Set daily goals for completed pomodoros. Tag sessions by project or task type for better time management insights. Integration with task management apps. Motivational quotes during breaks keep you inspired.",
     "size": 20,
     "reviews": 3000,
     "ratingAvg": 4.1,
-    "downloads": "1M"
+    "downloads": "1M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 840 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png",
     "title": "VoiceMate",
     "companyName": "Talkify: Voice Assistant",
     "id": 23,
-    "description": "Control your phone hands-free with intelligent voice commands for calls, messages, and navigation. Set reminders, play music, check weather, and get answers to questions. Experience seamless integration with your daily routine.",
+    "description": "Control your phone hands-free with intelligent voice commands for calls, messages, and navigation. Set reminders, play music, check weather, and get answers to questions. Experience seamless integration with your daily routine.\n\nVoiceMate understands natural language and context, making conversations feel intuitive and human-like. Ask follow-up questions without repeating context. Voice assistant learns your preferences and habits over time for better personalization.\n\nMake calls, send texts, and compose emails using only your voice while driving or multitasking. Control smart home devices, set multiple timers and alarms, and manage your calendar with voice commands. Translation features support dozens of languages.\n\nGet instant answers to general knowledge questions, calculations, unit conversions, and web searches. Voice shopping adds items to your cart on compatible stores. Customizable wake word lets you choose your preferred activation phrase. Privacy-focused with local processing options.",
     "size": 46,
     "reviews": 13000,
     "ratingAvg": 4.3,
-    "downloads": "5M"
+    "downloads": "5M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1950 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 5980 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/3712/3712155.png",
     "title": "QuizUp",
     "companyName": "Brainy: Trivia & Quizzes",
     "id": 24,
-    "description": "Challenge your knowledge with thousands of trivia questions across multiple categories. Compete with friends and players worldwide in real-time quiz battles. Climb the leaderboards and prove you're the ultimate trivia champion.",
+    "description": "Challenge your knowledge with thousands of trivia questions across multiple categories. Compete with friends and players worldwide in real-time quiz battles. Climb the leaderboards and prove you're the ultimate trivia champion.\n\nQuizUp features over 50 categories including history, science, pop culture, sports, movies, music, geography, and literature. Questions range from easy to expert difficulty ensuring everyone can enjoy the challenge.\n\nChallenge friends to head-to-head quiz duels or compete in tournament-style competitions with players globally. Real-time multiplayer makes every match exciting and unpredictable. Earn achievements and collect badges for your knowledge mastery.\n\nCreate custom quizzes on topics you're passionate about and share with the community. Study mode lets you practice questions without time pressure. Daily challenges offer new questions every day. Detailed statistics show your strongest and weakest categories to guide improvement.",
     "size": 37,
     "reviews": 9000,
     "ratingAvg": 4.5,
-    "downloads": "4M"
+    "downloads": "4M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 3870 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/6195/6195699.png",
     "title": "SecureVault",
     "companyName": "SafeLock: Password Manager",
     "id": 25,
-    "description": "Protect your digital life with military-grade encryption for passwords and sensitive information. Auto-fill login credentials across websites and apps. Generate strong passwords and receive security breach alerts to stay protected.",
+    "description": "Protect your digital life with military-grade encryption for passwords and sensitive information. Auto-fill login credentials across websites and apps. Generate strong passwords and receive security breach alerts to stay protected.\n\nSecureVault stores unlimited passwords, credit cards, secure notes, and personal documents in an encrypted vault accessible only with your master password. Biometric authentication adds convenience without compromising security.\n\nPassword generator creates strong, unique passwords for every account following best security practices. Auto-fill feature seamlessly enters credentials on websites and apps without typing. Cross-platform sync keeps your vault updated across all devices.\n\nSecurity dashboard identifies weak, reused, or compromised passwords requiring updates. Dark web monitoring alerts you if your email or passwords appear in data breaches. Secure password sharing with family or team members. Emergency access grants trusted contacts access in emergencies.",
     "size": 26,
     "reviews": 8000,
     "ratingAvg": 4.6,
-    "downloads": "2.5M"
+    "downloads": "2.5M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4000 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2838/2838779.png",
     "title": "TimeHero",
     "companyName": "PlanPro: Time Management",
     "id": 26,
-    "description": "Master time blocking strategies to enhance productivity and achieve work-life balance. Schedule tasks visually on a calendar and set focused time blocks. Eliminate distractions and accomplish more with structured daily planning.",
+    "description": "Master time blocking strategies to enhance productivity and achieve work-life balance. Schedule tasks visually on a calendar and set focused time blocks. Eliminate distractions and accomplish more with structured daily planning.\n\nTimeHero combines calendar, task management, and time blocking in one powerful interface. Drag and drop tasks into your calendar to allocate specific time slots for focused work. Color-coded blocks help visualize how you spend your day.\n\nAutomatic scheduling algorithms suggest optimal times for tasks based on your energy levels and past productivity patterns. Buffer time between meetings prevents burnout and allows for preparation. Recurring time blocks establish consistent routines.\n\nIntegrate with popular calendar apps to see all commitments in one view. Focus mode silences notifications during scheduled work blocks. Analytics show where your time actually goes versus where you planned to spend it. Template time blocks for repeating weekly schedules.",
     "size": 34,
     "reviews": 12000,
     "ratingAvg": 4.5,
-    "downloads": "3.8M"
+    "downloads": "3.8M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1440 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 4920 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/2784/2784461.png",
     "title": "GoalTrack",
     "companyName": "FocusPro: Goal Setter",
     "id": 27,
-    "description": "Define and achieve your personal and professional goals with systematic tracking and milestone celebrations. Break down big objectives into manageable steps. Stay motivated with progress visualization and achievement badges.",
+    "description": "Define and achieve your personal and professional goals with systematic tracking and milestone celebrations. Break down big objectives into manageable steps. Stay motivated with progress visualization and achievement badges.\n\nGoalTrack helps you set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) with guided templates for common objectives. Whether fitness, career, financial, or personal development, create structured plans for success.\n\nBreak major goals into smaller milestones and daily action items. Check off completed tasks to see your progress visually. Habit tracker helps build consistent behaviors that support your long-term objectives and creates lasting change.\n\nMotivational reminders keep goals top of mind without being pushy. Vision board feature lets you attach inspiring images to goals. Share progress with accountability partners or join communities with similar goals. Reflect on wins with journal entries and celebrate achievements with digital rewards.",
     "size": 38,
     "reviews": 10500,
     "ratingAvg": 4.4,
-    "downloads": "3.2M"
+    "downloads": "3.2M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 315 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1575 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 3990 }
+    ]
   },
   {
     "image": "https://cdn-icons-png.flaticon.com/512/619/619032.png",
     "title": "DreamHome",
     "companyName": "RealSpace: Home Finder",
     "id": 28,
-    "description": "Discover your perfect property with advanced search filters for location, price, and amenities. View high-quality photos, virtual tours, and neighborhood insights. Connect directly with agents and schedule property viewings instantly.",
+    "description": "Discover your perfect property with advanced search filters for location, price, and amenities. View high-quality photos, virtual tours, and neighborhood insights. Connect directly with agents and schedule property viewings instantly.\n\nDreamHome features millions of listings including apartments, houses, condos, and commercial properties for rent or sale. Interactive maps with satellite and street views help you explore neighborhoods and nearby facilities like schools and parks.\n\nSave favorite properties to compare features, prices, and locations side by side. Receive instant notifications when new listings match your criteria or when saved properties have price changes. Mortgage calculator estimates monthly payments with taxes and insurance.\n\nVirtual 3D tours let you explore properties remotely before scheduling in-person visits. Neighborhood data shows crime rates, school ratings, and demographic information. Direct messaging with real estate agents streamlines communication. Save search criteria for recurring alerts on new matching listings.",
     "size": 52,
     "reviews": 15000,
     "ratingAvg": 4.6,
-    "downloads": "6M"
+    "downloads": "6M",
+    "develop": "Developed by Appoza",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5250 },
+      { "name": "5 star", "count": 7500 }
+    ]
   }
 ]

@@ -11,7 +11,6 @@ const Installation = () => {
   }, []);
   return (
     <div>
-      <p>Installation Apps {install.length}</p>
 
       <div className="justify-center text-center pt-20">
         <h2 className="text-4xl font-semibold">Your Installed Apps</h2>
