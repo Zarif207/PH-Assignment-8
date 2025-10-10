@@ -17,4 +17,3 @@ const MainLayouts = () => {
 
 export default MainLayouts;
 
-// max-w-screen-2xl mx-auto w-full px-4 md:px-8 lg:px-12

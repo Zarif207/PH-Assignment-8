@@ -41,7 +41,7 @@ const Banner = () => {
         </div>
         <div className="flex justify-center">
           <img src={heroImage} alt="banner" className="w-[1000px] h-auto" />
-        </div>
+        </div> 
 
         <div className="w-full bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)100%)] justify-center p-20">
           <h2 className="text-white text-[42px] text-center font-semibold">

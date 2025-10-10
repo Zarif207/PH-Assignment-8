@@ -5,6 +5,7 @@ import MainLayouts from "../Layouts/MainLayouts";
 import ErrorPage from "../Pages/ErrorPage";
 import Installation from "../Pages/Installation";
 import ProductsDetails from "../Pages/ProductsDetails";
+import PageError from "../Pages/PageError";
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,7 @@ const router = createBrowserRouter([
       {
         path: "/products",
         element: <Products></Products>,
+        errorElement: <ErrorPage></ErrorPage>, // <-- Added route-specific error handler
       },
       {
         path: "/Installation",
@@ -31,10 +33,10 @@ const router = createBrowserRouter([
       },
     ],
   },
-//   {
-//     path: '*',
-//     element: <ErrorPage></ErrorPage>
-//   }
+  {
+    path: '*',
+    element: <PageError></PageError>,
+  }
 ]);
 
 export default router;
